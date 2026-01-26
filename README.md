@@ -1,4 +1,4 @@
-# Hi, I’m Kris aka @Olivierkt 👋
+# Hi, I’m @Olivierkt 👋
 
 Frontend Engineer specializing in **Vue.js, Nuxt, and TypeScript**, with a focus on clean architecture, performance, and scalable UI systems.
 
@@ -18,7 +18,7 @@ Frontend Engineer specializing in **Vue.js, Nuxt, and TypeScript**, with a focus
 
 ### 📌 Featured Projects - coming soon
 - **TV Now** – Interactive TV guide built with Vue 3, Nuxt, Tailwind & TypeScript
-- **Sortalist** – Reusable design system for scalable apps
+- **Sortalist** – Sortable list app with history function 
 
 ### 🌍 Currently
 - Open to frontend roles (Vue/Nuxt)
