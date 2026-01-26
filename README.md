@@ -1,4 +1,4 @@
-# Hi, I’m @Olivierkt 👋
+# Hi, I’m @Olivierkt 🦸‍️👋🏼
 
 Frontend Engineer specializing in **Vue.js, Nuxt, and TypeScript**, with a focus on clean architecture, performance, and scalable UI systems.
 
