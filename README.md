@@ -1,9 +1,9 @@
 # Hi, I’m @Olivierkt 🦸‍️👋🏼
 
-Frontend Engineer specializing in **Vue.js, Nuxt, and TypeScript**, with a focus on clean architecture, performance, and scalable UI systems.
+Frontend Engineer specialising in **Vue.js, Nuxt, and TypeScript**, with a focus on clean architecture, performance and scalable UI systems.
 
 ### 🛠 Tech Stack
-- Vue 3 / Nuxt 3
+- Vue 3 / Nuxt 3 & 4
 - TypeScript / JavaScript (ES6+)
 - Tailwind CSS
 - API-first & headless architectures
@@ -17,8 +17,7 @@ Frontend Engineer specializing in **Vue.js, Nuxt, and TypeScript**, with a focus
 - SaaS and apps that make lives better
 
 ### 📌 Featured Projects - coming soon
-- **TV Now** – Interactive TV guide built with Vue 3, Nuxt, Tailwind & TypeScript
-- **Sortalist** – Sortable list app with history function 
+
 
 ### 🌍 Currently
 - Open to frontend roles (Vue/Nuxt)
