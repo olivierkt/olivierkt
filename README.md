@@ -17,8 +17,7 @@ Frontend Engineer specializing in **Vue.js, Nuxt, and TypeScript**, with a focus
 - SaaS and apps that make lives better
 
 ### 📌 Featured Projects - coming soon
-- **TV Now** – Interactive TV guide built with Vue 3, Nuxt, Tailwind & TypeScript
-- **Sortalist** – Sortable list app with history function 
+
 
 ### 🌍 Currently
 - Open to frontend roles (Vue/Nuxt)
