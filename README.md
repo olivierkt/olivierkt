@@ -16,10 +16,5 @@ Frontend Engineer specialising in **Vue.js, Nuxt, and TypeScript**, with a focus
 - Shipping consistently in product-driven startup and scaleup teams
 - SaaS and apps that make lives better
 
-### 📌 Featured Projects - see below
-
-### 🌍 Currently
-- Open to frontend roles (Vue/Nuxt)
-
 ### 📫 Get in touch
 - Contact via: https://kom-digital.com
